@@ -12,7 +12,7 @@ int main() {
 
     double area = pi * pow(radius, 2);
 
-    cout << "Area: " << area;
+    cout << "Area of the circle: " << area;
 
     return 0;
 }
