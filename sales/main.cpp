@@ -4,7 +4,11 @@ using namespace std;
 
 int main() {
 
-    double sales = 8750;
+    cout << "enter sale value: ";
+
+    double sales;
+    cin >> sales;
+
     const double stateTaxRate = 0.23;
 
     cout << "Sales: " <<sales<< endl;
