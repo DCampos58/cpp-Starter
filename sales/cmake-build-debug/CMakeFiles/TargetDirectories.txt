@@ -1,0 +1,3 @@
+/Users/danielcampos/Documents/Informática/C/cpp-Starter/sales/cmake-build-debug/CMakeFiles/sales.dir
+/Users/danielcampos/Documents/Informática/C/cpp-Starter/sales/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danielcampos/Documents/Informática/C/cpp-Starter/sales/cmake-build-debug/CMakeFiles/rebuild_cache.dir
